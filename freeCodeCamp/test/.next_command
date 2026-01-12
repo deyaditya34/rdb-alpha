@@ -191,3 +191,10 @@ find client/assets/fonts/
 touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
+ls --color=auto -a
+ls --color=auto
+rm fonts/lato.ttf fonts/menlo.otf fonts/roboto.woff
+rmdir fonts/
+ls --color=auto
+ls --color=auto
+rm --help
