@@ -225,3 +225,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 cp -r website-boilerplate/ toms-website
 ls --color=auto
+find toms-website/
