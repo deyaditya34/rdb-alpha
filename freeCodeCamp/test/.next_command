@@ -219,3 +219,8 @@ ls --color=auto
 mv website/ website-boilerplate
 ls --color=auto
 cp --help
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+ls --color=auto
+cp -r website-boilerplate/ toms-website
