@@ -141,3 +141,4 @@ mv index.html client/src/
 find
 __vsc_prompt_cmd_original
 mv index.js client/src/
+mv styles.css client/src/
