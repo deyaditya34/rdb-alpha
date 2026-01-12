@@ -198,3 +198,5 @@ rmdir fonts/
 ls --color=auto
 ls --color=auto
 rm --help
+rm -r
+rm -r fonts/
